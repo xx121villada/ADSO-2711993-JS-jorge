@@ -1,0 +1,32 @@
+body{
+    color: purple;
+    background-color: greenyellow;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left:11em;
+}
+
+.navbar{
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em;
+    
+}
+
+.navbar li {
+    text-decoration: dashed;
+
+}
+
+.navbar li{
+    border-right: 10px solid black;
+    margin: 0.5em;
+    background-color: white;
+}
+
+address{
+    top:3em;
+}
