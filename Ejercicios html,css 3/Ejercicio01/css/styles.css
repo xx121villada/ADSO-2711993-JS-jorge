@@ -1,0 +1,72 @@
+.formulario{
+    border: solid 2px blue;
+    
+}
+.form-locion{
+    display: flex;
+    width: 35%;
+}
+nav ul li{
+    margin-top: 10px;
+}
+form i{
+    margin-right: 20px;
+}
+.encabezado{
+    box-shadow: rgba(0,0,0,0.16) 0px 3px 6px, rgba(0,0,0,0.23) 0px 3px 6px;
+    border-radius: 2%;
+    margin: 1%;
+}
+.encabezado h2{
+    text-align: center;
+    font-family: algerian;
+    background-color:rgb(51, 209, 255); ;
+}
+.icono{
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+    border-radius: 5%;
+    width: 8%;
+    margin-left: 1em;
+    margin-right: 1em;
+} 
+header{
+    margin-top: 1%;
+}
+.principal{
+    box-shadow: rgb(38,57,77) 0px 20px 30px -10px;
+    border-radius: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-image:url("/Ejercicios html,css 3/Ejercicio01/img/fondo.jpg");
+    margin-bottom: 30px;
+}
+.principal div{
+    box-shadow: rgba(50,50,93,0.25) 0px 13px 27px -5px, rgba(0,0,0,0.3) 0px 8px 16px -8px;
+    border-radius: 3%;
+    margin:10px;
+    height: 250px;
+    width: 20%;
+    background-color: white;
+}
+.imgBody{
+    width: 100%;
+    height: 100%;
+}
+footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    height: 4%;
+    background-color:rgb(51, 209, 255);
+    font-family: algerian;
+}
+.botones{
+    position: fixed;
+    bottom: 5%;
+}
+.botones button{
+    border: ridge;
+
+}

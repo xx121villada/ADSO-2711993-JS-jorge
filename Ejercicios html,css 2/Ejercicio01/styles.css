@@ -1,0 +1,23 @@
+#primero p{
+    color: #336699;
+}
+a{
+    color: #cc3300;
+}
+p{
+    color:#333;
+}
+#primero em{
+    background-color:#FFFFCC;
+}
+.normal a{
+    font-weight:normal;
+}
+span{
+    font-weight:bold;
+}
+.normal em{
+    background-color: #FFCC99; 
+    border: 1px solid #FF9900; 
+    padding: .1em;
+}

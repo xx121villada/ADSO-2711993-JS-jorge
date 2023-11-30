@@ -1,0 +1,16 @@
+ul li{
+    list-style-type: none; 
+    margin: 20px;
+    padding: 20px;
+}
+div a{
+    color:#CC0000;
+}
+a:hover{
+    height: 40px;
+    color:#fff; 
+    background-color: #CC0000;
+}
+a{
+    padding: 20px;
+}
